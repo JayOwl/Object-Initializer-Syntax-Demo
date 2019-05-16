@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F798B96B-72B5-4DF2-913D-FC621005D7BC}</ProjectGuid>
+    <ProjectGuid>{BA348C2A-48FE-49A9-A6E1-E2053555B98C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>COMP2614Lab02</RootNamespace>
-    <AssemblyName>COMP2614Lab02</AssemblyName>
+    <RootNamespace>COMP2614Lab023</RootNamespace>
+    <AssemblyName>COMP2614Lab023</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
